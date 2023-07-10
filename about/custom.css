@@ -1,0 +1,20 @@
+.avatar {
+    width: 15%;
+    height: 15%;
+    min-width: 100px;
+    min-height: 100px;
+  }
+
+  button {
+    margin-top: 1.5em;
+  }
+
+  body {
+    font-family: 'Ysabeau Infant', sans-serif;
+  }
+
+  #collapseAboutMe,
+  #collapseTechStack,
+  #collapseWhatIWant {
+    margin-bottom: 1.5em;
+  }
